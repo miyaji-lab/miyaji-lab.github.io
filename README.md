@@ -3,3 +3,6 @@
 ## How to fight with p
 ミレニアム問題より難しい
 
+
+## external contents
+* [料理レシピ](/recipe)
