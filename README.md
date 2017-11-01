@@ -6,3 +6,5 @@
 
 ## external contents
 * [料理レシピ](/recipe)
+* [情報理論](https://katsunarishishido.github.io/InformationTheory/)
+
